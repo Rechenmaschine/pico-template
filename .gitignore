@@ -7,3 +7,5 @@
 !/.gitmodules
 !/CMakeLists.txt
 !/readme.md
+!/build.sh
+!/monitor.sh
